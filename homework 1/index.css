@@ -1,0 +1,12 @@
+body{
+	color: #404040;
+	font-size: 11pt;
+	font-family: Georgia, Garamond, Sans-Serif;
+	background-image:url(http://222.200.185.14/public/hw1/silverware.jpg); 
+	background-attachment: fixed;
+}
+
+img
+{
+	max-width: 1024px;
+}
